@@ -1,4 +1,4 @@
-# streaming-video
+# Streaming-Videos
 # Um dos meus primeiros trabalhos pelo Senac- RS/2020
 
 O trabalho que elaborei foi realizado com HTML5 e CSS3, a minha ideia foi fazer um streaming de Videos, onde o usuário pudesse visualizar os filmes. A principio estaria visualizando os que estariam em cartaz, e ao clicar com mouse seria direcionado para assistir o filme no Youtube.
